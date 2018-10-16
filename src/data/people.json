@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Basti",
+    "address": {
+      "city": "London"
+    }
+  },
+  {
+    "name": "Jan von Nebenan",
+    "address": {
+      "postalCode": "42",
+      "street": "Music street"
+    }
+  },
+  {
+    "name": "Kappe",
+    "address": {
+      "city": "Hamburg",
+      "postalCode": "1910"
+    }
+  },
+  {
+    "name": "Kimble",
+    "address": {
+      "city": "Amsterdam"
+    }
+  },
+  {
+    "name": "Marcimarc",
+    "address": {
+      "city": "Ohio",
+      "postalCode": "1337"
+    }
+  },
+  {
+    "name": "Robi the Machine",
+    "address": {
+      "street": "Bierkingstreet"
+    }
+  }
+]
