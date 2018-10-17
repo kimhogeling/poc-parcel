@@ -13,7 +13,7 @@ import '../styles/index.scss'
  * @param {string} name
  * @param {Object} address
  *
- * @return {{dude: number, city: number, street: number, postalCode: number}}
+ * @return {{dude: string, city: string, street: string, postalCode: string}}
  */
 const format = ({ name = '', address }) => ({
     // @babel/plugin-proposal-pipeline-operator enables us to experiment with pipelines
