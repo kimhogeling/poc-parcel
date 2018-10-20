@@ -2,4 +2,5 @@
 .idea
 dist
 node_modules
-prod
+prod-js
+prod-ts

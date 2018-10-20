@@ -7,15 +7,30 @@ It has grown in popularity, so about time I try it out!
 $ npm i
 ```
 
-## Run dev server
+## JavaScript version that uses babel
+
+### Run dev server
 ```bash
-$ npm run dev 
+$ npm run dev-js
 ```
 
-## Build for production
-```bash
-$ npm run build 
-```
-
-## Babel
+### Babel
 When installing further babel plugins, register them in the `.babelrc` file.
+
+### Build for production
+```bash
+$ npm run build-js 
+```
+
+## TypeScript version
+
+### Run dev server
+```bash
+$ npm run dev-js
+```
+
+### Build for production
+```bash
+$ npm run build-ts 
+```
+
